@@ -1,3 +1,3 @@
-# Git CLI Tutorial (master branch)
+# Git CLI Tutorial
 
-> This is a change made in master branch.
+This repository is for a Noroff Git Tutorial.
